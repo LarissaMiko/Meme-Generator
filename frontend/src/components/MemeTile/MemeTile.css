@@ -1,0 +1,82 @@
+.meme-tile {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.like-button {
+  font-size: 1.5rem;
+  padding-top: 5px;
+  padding-bottom: 3px;
+  border-radius: 3px;
+  color: white;
+}
+
+.active-buttons {
+  background-color: #343a40;
+  cursor: pointer;
+}
+
+.disabled {
+  background-color: lightslategray;
+}
+
+.thump-up:hover {
+  color: greenyellow;
+}
+
+.thump-down:hover {
+  color: lightcoral;
+}
+
+.upvoted {
+  color: greenyellow;
+}
+
+.downvoted {
+  color: lightcoral;
+}
+
+.like-count {
+  font-size: 1rem;
+}
+
+.category-tile {
+  background-color: #cff6e5;
+  color: grey;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+img {
+  cursor: pointer;
+}
+
+.statistics {
+  background-color: lightgray;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.view-button {
+  color: white;
+  border-radius: 50%;
+  padding: 5px 10px 4px 12px;
+  width: 40px;
+}
+
+.share-icon {
+  color: white;
+  border-radius: 50%;
+  padding: 2px 10px 10px 10px;
+  cursor: pointer;
+}
+
+.audio-icon {
+  color: white;
+  border-radius: 50%;
+  padding: 10px 12px 12px 10px;
+  cursor: pointer;
+}
+
+.download-icon {
+  color: white;
+}

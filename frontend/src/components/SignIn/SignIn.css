@@ -1,0 +1,12 @@
+.page {
+  min-height: 90vh;
+}
+
+.form-container {
+  width: 40%;
+  padding: 30px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: 5px;
+  background-color: lightgray;
+}

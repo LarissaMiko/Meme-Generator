@@ -1,0 +1,22 @@
+.content {
+  min-height: 90vh;
+}
+
+.filter-container {
+  background-color: lightgray;
+  border-radius: 4px;
+}
+
+.sort-select,
+.search-field {
+  width: 60%;
+}
+
+.fa-search {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.download-info {
+  font-size: 0.8rem;
+}
